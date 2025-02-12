@@ -472,7 +472,7 @@ transition: all .3s ease-in-out;
   z-index: 999;
 }
 .contact-container{
-  height:70vh;
+  height:50vh;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -772,8 +772,11 @@ top: -100%;
     width: 160px;
     height: 160px;
   }
+  .contact-container{
+    margin-bottom: 6px;
+  }
   .contact-inputs{
-    width: 150px;
+    width: 200px;
     height: 30px;
     border: none;
     outline: none;
@@ -781,7 +784,6 @@ top: -100%;
     font-weight: 500;
     color: #646867;
     border-radius: 50px;
-  
   
   }
   
