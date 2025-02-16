@@ -472,7 +472,7 @@ transition: all .3s ease-in-out;
   z-index: 999;
 }
 .contact-container{
-  height:67vh;
+  height:60vh;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
