@@ -488,8 +488,7 @@ transition: all .3s ease-in-out;
   background-color: #0677A1;
   opacity: 90%;
   border-radius: 18px;
-  border: 2px solid rgb(238, 239, 237)1;
-  padding: 20px;
+  padding: 10px;
 }
 
 .contact-title h2{
