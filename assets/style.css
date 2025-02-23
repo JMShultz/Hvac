@@ -723,6 +723,43 @@ top: -100%;
 
 
 
+ /**********************************************/
+ /* Privacy page */
+/**********************************************/
+.privacy-contianer{
+  
+background-color:#ffffff;
+height: 66.5vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+
+.privacy-contianer h1{
+  font-family: Arial;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: black;
+  font-size:35px;
+  text-decoration: underline red;
+  
+}
+
+
+.privacy-contianer p{
+  font-family: Arial;
+  text-align: center;
+  width: 100%;
+  color:#0f1011;
+  font-size: 17px;
+  line-height: 1.6;
+  text-shadow: 1px 1px 1px rgb(34, 34, 34);
+}
+/**********************************************/
+/**********************************************/
+
 @media screen and (max-width: 639px) {
   
   .f1{
